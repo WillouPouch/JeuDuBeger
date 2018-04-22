@@ -38,10 +38,10 @@ Aboutissement d'un vrai jeu quasiment livrable et respect des objectifs fixés e
 
 ## Auteurs
 
-* **Sacha Vanleene - Developper** 
-* **Edouard François - Developper**
-* **Arnaud Monteils - Developper**
-* **Esmé James - Developper**
-* **Théo Debay - Developper**
-* **Wilfried Pouchous - Developper**
-* **Hugo Brunet - Developper**
+* **Sacha Vanleene - Developpeur** 
+* **Edouard François - Developpeur**
+* **Arnaud Monteils - Developpeur**
+* **Esmé James - Developpeur**
+* **Théo Debay - Developpeur**
+* **Wilfried Pouchous - Developpeur**
+* **Hugo Brunet - Developpeur**
